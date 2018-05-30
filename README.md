@@ -16,9 +16,11 @@
 ## 文档
 
 * [部署文档](./docs/install.md)
+* [Docker快速体验部署文档](./docs/docker.md)
 * [使用帮助](./docs/help.md)
 * [规则编写](./docs/rule.md)
 * [编译指南](./docs/build.md)
+* [Web安装向导指南](./docs/guide.md)
 * [Q&A](./qa.md)
 
 ## 功能特点
